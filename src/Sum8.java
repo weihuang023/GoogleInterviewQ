@@ -9,7 +9,7 @@ public class Sum8 {
 		for (int i = 0; i <= len; i++) 
 		{
 			iteration++;
-			System.out.println("Iteration+++++++++++++ "+iteration+" +++++++++++++++++++++++");
+			System.out.println("Iteration+++++++++++++l "+iteration+" +++++++++++++++++++++++");
 			for (int j = i+1; j <= len; j++)
 			{
 				System.out.println(myList[i]+myList[j]);
