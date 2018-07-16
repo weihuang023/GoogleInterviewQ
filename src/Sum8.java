@@ -27,6 +27,7 @@ public class Sum8 {
 			if (myList[i] <= 8) 
 			{
 				//System.out.println("Found Num Less than 8: " +myList[i]);
+				int arr [] = new int[myList.length];
 				getLess8 = myList[i];
 			}
 			else
