@@ -11,7 +11,6 @@ public class DynamicP {
 		arr[0] = 0;
 		arr[1] = 1;
 	
-		
 		if (n ==1)
 		{
 			result = 1;
